@@ -1,4 +1,4 @@
-# instagram_influencer_dataset
+# Instagram Influencer Dataset
 
 https://sites.google.com/site/sbkimcv/dataset
 
