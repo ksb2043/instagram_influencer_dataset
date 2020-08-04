@@ -4,10 +4,13 @@ https://sites.google.com/site/sbkimcv/dataset
 
 
 As a part of the 'Influencer Marketing Research', I collected data from Instagram and share it for the research purpose. The dataset contains 33,935 influencers (labeled with specific topics) with their 10,180,500 Instagram posts. The detailed of data collection method and the categories of influencers and posts are described in the paper "Multimodal Post Attentive Profiling for Influencer Marketing" published in The Web Conference '20.
+https://dl.acm.org/doi/abs/10.1145/3366423.3380052
 
 
 Citation for the Instagram Influencer Dataset
+
 "Multimodal Post Attentive Profiling for Influencer Marketing," Seungbae Kim, Jyun-Yu Jiang, Masaki Nakada, Jinyoung Han and Wei Wang.  In Proceedings of the 2020 World Wide Web Conference (WWW '20), ACM, 2020.
+
 
 @inproceedings{kim2020multimodal,
   title={Multimodal Post Attentive Profiling for Influencer Marketing},
