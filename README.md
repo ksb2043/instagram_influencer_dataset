@@ -1,6 +1,6 @@
 # Instagram Influencer Dataset
 
-![DatasetImage](https://github.com/ksb2043/instagram_influencer_dataset/blob/master/image2.png =250x)
+![DatasetImage](https://github.com/ksb2043/instagram_influencer_dataset/blob/master/image2.png = 250x)
 
 ## Dataset download link
 https://sites.google.com/site/sbkimcv/dataset
