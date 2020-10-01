@@ -1,6 +1,6 @@
 # Instagram Influencer Dataset
 
-![DatasetImage](https://github.com/ksb2043/instagram_influencer_dataset/blob/master/image2.png){:width="250px"}
+![DatasetImage](https://github.com/ksb2043/instagram_influencer_dataset/blob/master/image2.png)
 
 ## Dataset download link
 https://sites.google.com/site/sbkimcv/dataset
@@ -21,7 +21,7 @@ Influencers are classified into the following nine categories:
 9. Other
 
 The detailed of data collection method and the categories of influencers and posts are described in the paper "[Multimodal Post Attentive Profiling for Influencer Marketing](https://dl.acm.org/doi/abs/10.1145/3366423.3380052)" published in The Web Conference '20.
-
+![Framework](https://github.com/ksb2043/instagram_influencer_dataset/blob/master/image1.png)
 
 ## Citation for the Instagram Influencer Dataset
 
