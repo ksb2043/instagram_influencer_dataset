@@ -7,7 +7,14 @@ https://sites.google.com/site/sbkimcv/dataset
 
 ## Dataset description
 As a part of the '[Influencer Marketing Research](https://sites.google.com/site/sbkimcv/research?authuser=0#h.p_ID_38)', I collected data from Instagram and share it for the research purpose. 
-The dataset contains 33,935 influencers with their 10,180,500 Instagram posts. (300 posts per influencer)
+The dataset contains 33,935 influencers with their 10,180,500 Instagram posts (300 posts per influencer).
+The dataset includes two types of files, post metadata and image files.
+Post metadata files are in JSON format and it contains following information: caption, usertags, hashtags, timestamp, sponsorship, likes, comments, etc.
+Image files are in JPEG format and the dataset contains 12,933,406 image files since a post can have more than one image file.
+If a post has only one image file then JSON file and the corresponding image files have the same name.
+However, if a post has more than one image then JSON file and corresponding image files have different names.
+Therefore, we also provide a JSON-Image_mapping file that shows a list of image files coreesponds to a post metadata.
+
 Influencers are classified into the following nine categories:
 1. Beauty
 2. Family
