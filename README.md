@@ -4,8 +4,9 @@
 ## Dataset download link
 https://sites.google.com/site/sbkimcv/dataset
 
+- 33,935 Instagram influencers (labeled with 9 categories)
+- 10,180,500 Instagram posts 
 - Post metadata (JSON files): ~37 GB
-
 - Image (JPEG files): ~189 GB
 
 
