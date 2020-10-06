@@ -3,8 +3,9 @@
 
 ## Dataset download link
 https://sites.google.com/site/sbkimcv/dataset
-Post metadata (JSON files): ~37 GB
-Image (JPEG files): ~189 GB
+
+-Post metadata (JSON files): ~37 GB
+-Image (JPEG files): ~189 GB
 
 
 ## Dataset description
