@@ -37,14 +37,5 @@ The detailed of data collection method and the categories of influencers and pos
 
 ## Citation for the Instagram Influencer Dataset
 
-"Multimodal Post Attentive Profiling for Influencer Marketing," Seungbae Kim, Jyun-Yu Jiang, Masaki Nakada, Jinyoung Han and Wei Wang.  In Proceedings of the Web Conference 2020 (WWW '20), ACM, 2020.
+"Discovering Undisclosed Paid Partnership on Social Media via Aspect-Attentive Sponsored Post Learning," Seungbae Kim, Jyun-Yu Jiang, and Wei Wang.  In Proceedings of Web Search and Data Mining (WSDM '21), ACM, 2021.
 
-```
-@inproceedings{kim2020multimodal,
-  title={Multimodal Post Attentive Profiling for Influencer Marketing},
-  author={Kim, Seungbae and Jiang, Jyun-Yu and Nakada, Masaki and Han, Jinyoung and Wang, Wei},
-  booktitle={Proceedings of The Web Conference 2020},
-  pages={2878--2884},
-  year={2020}
-}
-```
