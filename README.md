@@ -2,7 +2,7 @@
 
 
 ## Dataset download link
-https://sites.google.com/site/sbkimcv/dataset
+https://sites.google.com/site/sbkimcv/dataset/instagram-influencer-dataset
 
 - 33,935 Instagram influencers (labeled with 9 categories)
 - 10,180,500 Instagram posts 
